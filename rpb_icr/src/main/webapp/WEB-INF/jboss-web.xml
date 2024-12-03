@@ -1,0 +1,3 @@
+<jboss-web>
+<context-root>/rpb_policy_decision</context-root>
+</jboss-web>
